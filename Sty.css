@@ -1,0 +1,41 @@
+
+h1{
+width: 400px;
+color: #1fd699;
+
+border: 5px solid rgb(62, 196, 173);
+border-image: url("");
+border-image-width: 0%;
+border-width: 0px;
+border-radius: 34%;
+offset-position: 40px;
+outline-offset: 40px;
+
+background-position-y:42%;
+padding: 200px;
+margin-top: 100px;
+margin-bottom: 50px;
+margin-right: 250px;
+margin-left: 200px;
+background-image: url("dng.jpg");
+background-size: 100%;
+background-repeat: no-repeat;
+}
+h3
+{
+color: #0c0e0d;
+font-size: xx-large;
+font-family: Arial, Helvetica, sans-serif;
+padding-left: 33%;
+}
+html
+{
+background-image: url("gr.jpg");
+background-size: cover;
+background-attachment: fixed;
+background-repeat: no-repeat;
+}
+a
+{
+color: #020202;
+}
